@@ -1,0 +1,16 @@
+Alex
+Collins
+50
+admin@mail.com
+qwerty
+asdfg
+Role is: ADMIN
+
+Vasia
+Pupkin
+45
+user@mail.com
+qwerty
+asdfg
+Role is: USER
+
